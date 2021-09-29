@@ -12,7 +12,7 @@ $enviaFormularioParaEmail = 'contato@kazaw.com.br';
 
 $caixaPostalServidorNome = 'Kaza W | Formulário';
 $caixaPostalServidorEmail = 'fale@kazaw.com.br';
-$caixaPostalServidorSenha = 'kazaw101059';
+//$caixaPostalServidorSenha = '';
 
 /*** FIM - DADOS A SEREM ALTERADOS DE ACORDO COM SUAS CONFIGURAÇÕES DE E-MAIL ***/
 
@@ -91,16 +91,16 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
+
+
+
 </head>
 <body>
 
 
   <section class="menu cid-r1gIyCuFdP" once="menu" id="menu2-0">
 
-    
+
 
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -118,7 +118,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                         <img src="assets/images/captura-de-tela-2018-08-20-as-11.16.26-626x152.png" alt="" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                
+
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -130,7 +130,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                     <a class="nav-link link text-black display-4" href="index.php#features11-2">A Kaza W</a>
                 </li><li class="nav-item"><a class="nav-link link text-black display-4" href="index.php#features12-4">Produtos</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="projetos.php">Projetos</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="index.php#form1-7">Contato</a></li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="http://api.whatsapp.com/send?1=pt_BR&phone=5519993887729"><span class="socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn"></span>
-                    
+
                     19 99388-7729</a></div>
         </div>
     </nav>
@@ -138,18 +138,18 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
 
 <section class="engine"><a href="">html site templates</a></section><section class="cid-r1gJ2yLBKp mbr-fullscreen" data-bg-video="https://www.youtube.com/watch?v=rHfQy9JJucI" id="header2-1">
 
-    
+
 
     <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(118, 118, 118);"></div>
 
     <div class="container align-center">
         <div class="row justify-content-md-center">
             <div class="mbr-white col-md-10">
-                
-                
+
+
                 <p class="mbr-text pb-3 mbr-fonts-style display-2"><strong>
                     Conheça um novo conceito de atendimento em cortinas, persianas, tapetes e papéis de parede em Campinas e região.</strong></p>
-                
+
             </div>
         </div>
     </div>
@@ -162,11 +162,11 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
 
 <section class="features11 cid-r1gLeP9nmA" id="features11-2">
 
-    
 
-    
 
-    <div class="container">   
+
+
+    <div class="container">
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class="mbr-figure" style="width: 50%;">
@@ -183,31 +183,31 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                             <div class="media">
                                 <div class=" align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-features"></span>
-                                </div>     
+                                </div>
                                 <div class="media-body">
                                     <h4 class="card-title mbr-fonts-style display-7">
                                         Mais de 20 mil produtos</h4>
                                 </div>
-                            </div>                
+                            </div>
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">Temos uma grande variedade de papéis de parede, persianas, tapetes sob medida, cortinas e tecidos. Aqui você encontra tudo o que precisa para transformar seu ambiente.<br></p>
                             </div>
                         </div>
 
-                        
+
                     </div>
                 </div>
             </div>
-        </div> 
-    </div>          
+        </div>
+    </div>
 </section>
 
 <section class="features12 cid-r1gMvhnhhW" id="features12-4">
-    
-    
 
-    
+
+
+
 
     <div class="container">
         <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2">
@@ -225,7 +225,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
                                 Persianas</h4>
                         </div>
-                    </div>                
+                    </div>
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
@@ -263,7 +263,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
                                 Cortinas</h4>
                         </div>
-                    </div>                
+                    </div>
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">Grande variedade de tecidos nacionais e importados. Produtos exclusivos e sob medida.</p>
@@ -289,9 +289,9 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
 </section>
 
 <section class="clients cid-r1gQ8pF3Kk" id="clients-8">
-      
 
-    
+
+
         <div class="container mb-5">
             <div class="media-container-row">
                 <div class="col-12 align-center">
@@ -305,11 +305,11 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
     <div class="container">
         <div class="carousel slide" data-ride="carousel" role="listbox">
             <div class="carousel-inner" data-visible="2">
-                
-                
-                
-                
-                
+
+
+
+
+
             <div class="carousel-item ">
                     <div class="media-container-row">
                         <div class="col-md-12">
@@ -423,9 +423,9 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
 
 <section class="mbr-section form1 cid-r1gQ3qPHkG" id="form1-7">
 
-    
 
-    
+
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="title col-12 col-lg-8">
@@ -438,7 +438,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
     <div class="container">
         <div class="row justify-content-center">
 
-            
+
                     <form action="" method="post">
                         <div class="row row-sm-offset">
                             <div class="col-md-4 multi-horizontal">
@@ -464,7 +464,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                             <label class="form-control-label mbr-fonts-style display-7" for="message-form1-7">Mensagem</label>
                             <textarea type="text" class="form-control" name="mensagem" rows="7" placeholder="Sua mensagem aqui!"></textarea>
                         </div>
-            
+
                         <span class="input-group-btn"><input type="submit" name="enviarFormulario" class="btn btn-primary btn-form display-4"><br></input></span>
                     </form>
 
@@ -474,9 +474,9 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
 
 <section class="cid-r1gTpHasas" id="footer2-9" style="background-color: white;">
 
-    
 
-    
+
+
 
     <div class="container">
         <div class="media-container-row content mbr-white">
@@ -519,10 +519,10 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153);"></span>
                             </a>
                         </div>
-                        
-                        
-                        
-                        
+
+
+
+
                     </div>
                 </div>
             </div>
@@ -544,7 +544,7 @@ echo "<script>alert('$mensagemRetorno');window.location.assign('http://www.kazaw
   <script src="assets/mbr-clients-slider/mbr-clients-slider.js"></script>
   <script src="assets/theme/js/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
-  
-  
+
+
 </body>
 </html>
